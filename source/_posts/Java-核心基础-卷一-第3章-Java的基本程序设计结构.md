@@ -3,6 +3,8 @@ title: 第3章 Java的基本程序设计结构
 date: 2026-02-17 03:20:27
 categories:
 - [编程技术, Java]
+tags:
+- Java-核心基础-卷一
 ---
 ## 3.1 一个简单的 Java 程序
 

@@ -3,6 +3,8 @@ title: 第6章 接口、Lambda表达式与内部类
 date: 2026-02-17 03:20:29
 categories:
 - [编程技术, Java]
+tags:
+- Java-核心基础-卷一
 ---
 ## 6.1 接口
 
